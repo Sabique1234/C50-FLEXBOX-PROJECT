@@ -1,0 +1,54 @@
+*
+h1{
+    background-color:lightseagreen;
+}
+h3{
+    background-color:yellow ;
+}
+a{
+    background-color:pink;
+
+}
+body{
+background-color:cyan;
+}
+
+.main{
+    margin-top:auto;
+    float:center;
+}
+.img{
+    display:flex;
+    justify-content: space-evenly;
+}
+.img2{
+    display:flex;
+    justify-content: space-evenly;
+}
+
+.text{
+    display:flex;
+    justify-content:space-evenly ;
+}
+.link{
+    display:flex;
+    justify-content: space-evenly;
+}
+
+.text2{
+    display: flex;
+    justify-content:space-evenly;
+}
+.link2{
+    display: flex;
+    justify-content: space-evenly;
+}
+
+
+.about{
+    background-color: teal;
+}
+
+.follow{
+  background-color: turquoise;
+}
